@@ -1,0 +1,12 @@
+.meal-container{
+    border: 3px solid darkmagenta;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+}
+
+img{
+   width: 250px;
+   height: 250px;
+   border-radius: 15px;
+}

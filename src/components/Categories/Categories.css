@@ -1,0 +1,11 @@
+.category{
+    border: 3px solid darkmagenta;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 25px;
+    color: purple;
+}
+
+img{
+    border-radius: 15px;
+}
