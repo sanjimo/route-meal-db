@@ -27,11 +27,9 @@ const MealDetail = () => {
     }
     return (
         <div>
-            <Card sx={{ maxWidth: 700, maxHeight: 900, marginLeft: 50, marginTop: 5, marginBottom: 5, boxShadow: 10}}>
+            <Card sx={{ maxWidth: 1000, maxHeight: 1200, marginLeft: 20, marginTop: 5, marginBottom: 5, boxShadow: 10}}>
                 <CardMedia
                     component="img"
-                    width="250"
-                    height="250"
                     image={meal.strMealThumb}
                     alt="food picture"
                 />
